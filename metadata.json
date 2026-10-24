@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Touch Home Care - Luxury Sales & Operations Suite",
+  "description": "Sales management, automated client scheduling, invoice generation, service quality QA tracking, CRM pipeline, and Supabase integration for premium households.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
